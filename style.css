@@ -12,7 +12,7 @@
     animation-name: rick;
     animation-duration: 1s;
     animation-play-state: paused;
-    transition: transform 0.57s ease-in-out;
+    transition: transform 0.56s ease-in-out;
 }
 
 #rickroll:hover{
