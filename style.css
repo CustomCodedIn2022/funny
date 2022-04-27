@@ -1,0 +1,26 @@
+@keyframes rick {
+
+    to { transform: rotate(35deg); }
+
+}
+
+
+
+#rickroll{
+    font-size: 50px;
+    background-color: aquamarine;
+    animation-name: rick;
+    animation-duration: 1s;
+    animation-play-state: paused;
+    transition: transform 0.57s ease-in-out;
+}
+
+#rickroll:hover{
+    background-color: chocolate;
+
+    transform: rotate(10deg);
+}
+
+body{
+    background-color: beige;
+}
