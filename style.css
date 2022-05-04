@@ -38,3 +38,9 @@
 body{
     background-color: beige;
 }
+
+#ad{
+    height: 50%;
+    width: 50%;
+    rotate: 90deg;
+}
